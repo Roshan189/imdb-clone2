@@ -91,7 +91,6 @@ async function getMovieByTrailer(id) {
 }
 // getMovieByTrailer(414906);
 
-//
 async function showPopup(card) {
   // console.log("showup", card);
   popup_container.classList.add("show-popup");
